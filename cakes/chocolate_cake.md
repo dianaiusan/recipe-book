@@ -1,4 +1,4 @@
-#chocolate ckake
+#chocolate cake
 ## Ingredient
 - chocolate
 - Cocoa powder
